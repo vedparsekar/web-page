@@ -6,17 +6,10 @@
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vedparsekar/web-page.git"
-  },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vedparsekar/web-page/issues"
-  },
-  "homepage": "https://github.com/vedparsekar/web-page#readme",
+  "homepage": "https://github.com/vedparsekar/web-page",
   "dependencies": {
     "gh-pages": "^1.2.0"
   }
